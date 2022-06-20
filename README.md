@@ -1,7 +1,7 @@
 Web Applications for Everybody (WA4E)
 =====================================
 
-Course materials for www.wa4e.com
+Course materials for www.wa4e.com testmerge
 
 Setup On Localhost
 ------------------
