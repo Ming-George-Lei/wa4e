@@ -2,7 +2,7 @@
 
 define('COOKIE_SESSION', true);
 require_once "tsugi/config.php";
-test
+
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
