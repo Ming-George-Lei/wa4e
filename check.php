@@ -1,4 +1,4 @@
-<?phptest
+<?php
 
 // This does a lot of sanity checking and leads the admin through
 // the install process
